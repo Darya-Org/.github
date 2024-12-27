@@ -1,6 +1,8 @@
-# Darya
+![darya](./assets/Darya.png)
 
 why this name? answer: https://www.behindthename.com/random/
+
+! notice, this name is provisory
 
 ## What do we do here?
 
